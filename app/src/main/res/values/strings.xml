@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Owl Education</string>
+    <string name="label_name">Teachers who love teaching, teach children to love learning! </string>
+    <string name="desc_title">Description:</string>
+    <string name="description">Affordable quality STEM tuition for grades 6-12.\n
+                               We offer on-site  math and science tutoring for curious young minds.\n
+                               Our instructors are all STEM-certified educators from the local top-tier universities.\n
+                               All new students get 50% off the first two months of tuition.\n
+                               Thereafter, the rate is $20/hour for all subjects.\n
+                               Please see below for the contact details. </string>
+    <string name="contact_title">Contact Us At:</string>
+    <string name="contact_info">Office: 503-805-1431\n
+                                Email: owl-educators@gmail.com</string>
+    <string name="loc_title">Address</string>
+    <string name="address">1234 ABC Building, Mission Blvd, Fremont CA 95439</string>
+    <string name="hours_title">Hours of Operation:</string>
+    <string name="hours">Hours of Operation: Mon-Fri: 3 p.m. - 6 p.m.\n
+                                             Sat-Sun: 9 a.m - 4 p.m.</string>
+</resources>
